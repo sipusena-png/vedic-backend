@@ -1,0 +1,8 @@
+flask
+pyswisseph
+gunicorn
+python-dotenv
+svgwrite
+geopy
+timezonefinder
+pytz
